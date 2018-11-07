@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZiroRPG", "Assembly-CSharp-firstpass.csproj", "{72849816-61FF-7E92-EC47-709DAC66C45D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZiroRPG", "Assembly-CSharp.csproj", "{11598F98-6123-F560-1207-16B9E905E018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZiroRPG", "Assembly-CSharp-Editor-firstpass.csproj", "{BB38FA15-913F-3E98-07C4-94CCB2D9032B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72849816-61FF-7E92-EC47-709DAC66C45D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72849816-61FF-7E92-EC47-709DAC66C45D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72849816-61FF-7E92-EC47-709DAC66C45D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72849816-61FF-7E92-EC47-709DAC66C45D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11598F98-6123-F560-1207-16B9E905E018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11598F98-6123-F560-1207-16B9E905E018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11598F98-6123-F560-1207-16B9E905E018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11598F98-6123-F560-1207-16B9E905E018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB38FA15-913F-3E98-07C4-94CCB2D9032B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB38FA15-913F-3E98-07C4-94CCB2D9032B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB38FA15-913F-3E98-07C4-94CCB2D9032B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB38FA15-913F-3E98-07C4-94CCB2D9032B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
